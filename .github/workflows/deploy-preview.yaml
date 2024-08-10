@@ -16,5 +16,5 @@ jobs:
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           # See docs/tutorials/04-deploy.md for configuring these
-          projectId: devfest-spain-2022
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DEVFEST_SPAIN_2022 }}'
+          projectId: devfest-valencia-2024
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_DEVFEST_VALENCIA_2024 }}'

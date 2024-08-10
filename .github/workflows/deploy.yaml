@@ -20,5 +20,5 @@ jobs:
           args: deploy
         env:
           # See docs/tutorials/04-deploy.md for configuring these
-          PROJECT_ID: devfest-spain-2022
-          GCP_SA_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_DEVFEST_SPAIN_2022 }}
+          PROJECT_ID: devfest-valencia-2024
+          GCP_SA_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_DEVFEST_VALENCIA_2024 }}
